@@ -1,5 +1,19 @@
 # 🛡️ Financial Fraud Detection – Advanced Visualization Notebook
 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visualization-3F4F75?style=for-the-badge&logo=plotly)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-success?style=for-the-badge)
+![Fraud Detection](https://img.shields.io/badge/Fraud-Detection-red?style=for-the-badge)
+![Financial Analytics](https://img.shields.io/badge/Financial-Analytics-green?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data-Science-purple?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 An end-to-end exploratory data analysis (EDA) and visualization project for financial fraud detection using the Kaggle Financial Fraud Detection Dataset.
 
 This notebook focuses on discovering fraud patterns, analyzing transaction behavior, identifying risk indicators, and creating professional interactive visualizations suitable for machine learning and fraud analytics projects.
@@ -21,6 +35,13 @@ This notebook performs comprehensive visual analysis on over **6.3 million trans
 - Fraud indicators for future machine learning models
 
 ---
+
+![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle)
+![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-FF6F00?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly-Detection-D32F2F?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-000000?style=for-the-badge&logo=securityscorecard)
+![Financial Fraud](https://img.shields.io/badge/Financial-Fraud%20Analytics-F43F5E?style=for-the-badge)
+![Transactions](https://img.shields.io/badge/6.3M+-Transactions-14B8A6?style=for-the-badge)
 
 ## 📊 Dataset
 
